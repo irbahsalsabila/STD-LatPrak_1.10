@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1517504027 source:e:\telkom university\kuliah\semester 2\struktur data\praktikum\praktikum 1\praktikum 1.cpp
+	<iostream>
+
+1517504118 source:e:\telkom university\kuliah\semester 2\struktur data\praktikum\praktikum 1\main.cpp
+	<iostream>
+	"praktikum 1.h"
+
+1517502196 e:\telkom university\kuliah\semester 2\struktur data\praktikum\praktikum 1\praktikum 1.h
+
